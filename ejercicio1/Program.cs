@@ -10,7 +10,7 @@ namespace ejercicio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello Word");
+            Console.WriteLine("hello Word hola johnny");
         }
 
 
